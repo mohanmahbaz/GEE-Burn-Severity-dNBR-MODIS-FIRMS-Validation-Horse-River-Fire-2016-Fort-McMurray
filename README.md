@@ -438,8 +438,13 @@ Thresholds: Severity thresholds are standard and may require local calibration f
 
 FIRMS meaning: FIRMS shows hotspots (active fire), not final burn severity.
 
-Repository Structure
+## Repository Structure
 
-README.md — this documentation
-
-images/ — exported final map layouts (PDF)
+- `README.md` — project documentation (this file)
+- `images/` — exported final map layouts (PDF):
+  - `images/Burn severity classes.pdf` — dNBR severity classes (1–5)
+  - `images/DNBR Burned mask.pdf` — binary burned/unburned mask (≥ low severity)
+  - `images/DNBR.pdf` — continuous dNBR surface
+  - `images/MODIS.pdf` — MODIS MCD64A1 burned-area product (reference/validation)
+  - `images/Pre-Fire NBR.pdf` — pre-fire NBR composite
+  - `images/Post-Fire NBR.pdf` — post-fire NBR composite
