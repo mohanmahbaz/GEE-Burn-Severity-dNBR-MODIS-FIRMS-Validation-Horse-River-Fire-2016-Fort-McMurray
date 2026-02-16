@@ -26,14 +26,9 @@ Fort McMurray / Regional Municipality of Wood Buffalo, Alberta.
 ---
 
 ## Notebook / Code Link
-Paste your GEE “Get Link” URL here:
 
 - **GEE Script / Notebook:** https://code.earthengine.google.com/02147d9bd266efb1c29790bcadd6b2aa
 
-> In Markdown, a link looks like this:  
-> `[Readable Name](https://code.earthengine.google.com/xxxx)`  
-> Example:  
-> `[GEE Script](https://code.earthengine.google.com/02147d9bd266efb1c29790bcadd6b2aa)`
 
 ---
 
